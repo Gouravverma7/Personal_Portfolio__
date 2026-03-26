@@ -4,7 +4,7 @@ A modern, responsive portfolio website built with React and Vite, showcasing my 
 
 ## 🚀 Live Demo
 
-Visit the live portfolio: https://portfolio-gilt-zeta-78.vercel.app/
+Visit the live portfolio: 
 
 ## 📋 Table of Contents
 
@@ -188,7 +188,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Contact
 
 **Gourav Verma**
-- Email: gouravverma2901@gmail.com
+- Email: gouravverma2907@gmail.com
 - LinkedIn: [gourav-verma2907](https://www.linkedin.com/in/gourav-verma2907/)
 - GitHub: [Gouravverma7](https://github.com/Gouravverma7/)
 - Twitter: [@GouravVerma29](https://x.com/GouravVerma29?t=9Bwdraj7IPG6CqyPvQ0MNQ&s=09)
