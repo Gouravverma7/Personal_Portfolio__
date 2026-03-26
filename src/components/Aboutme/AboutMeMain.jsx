@@ -1,18 +1,3 @@
-// import React from 'react'
-// import AboutMeText from './AboutMeText'
-// import AboutMeImage from './AboutMeImage'
-
-// const AboutMeMain = () => {
-//   return (
-//     <div className='flex md:flex-row sm:flex-col gap-28 px-12 max-w-[1000px] mx-auto mt-[100px] justify-between items-center'>
-//       <AboutMeText/>
-//       <AboutMeImage/>
-//     </div>
-//   )
-// }
-
-// export default AboutMeMain
-
 import React from "react";
 import AboutMeText from "./AboutMeText";
 import AboutMeImage from "./AboutMeImage";

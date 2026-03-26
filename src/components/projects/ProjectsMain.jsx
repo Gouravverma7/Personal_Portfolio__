@@ -7,32 +7,16 @@ import {fadeIn} from '../../frameMotion/varients';
 const projects = [
   {
   name: 'RealTime Chat App',
-  // year : 'APRIL - 2024',
   align : 'right',
-  // image: './images/College_Inquiry_chatbot.png',
+  // image: './images/#',
   link: 'https://github.com/Gouravverma7/chat-webApp',
 },
   {
   name: 'Online Shopping Cart Management System',
-  // year : 'JULY - 2024',
   align : 'right',
-  // image: './images/Placement_management_System.png',
+  // image: './images/#',
   link: 'https://github.com/Gouravverma7/Shopping_cart_Management_System',
 },
-// {
-//   name: 'Placement Management System',
-//   year : 'JULY - 2024',
-//   align : 'right',
-//   image: '../../public/images/College_Inquiry_chatbot.png',
-//   link: '#',
-// },
-// {
-//   name: 'Placement Management System',
-//   year : 'JULY - 2024',
-//   align : 'right',
-//   image: '../../public/images/College_Inquiry_chatbot.png',
-//   link: '#',
-// },
 ]
 
 const ProjectsMain = () => {

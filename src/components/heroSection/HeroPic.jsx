@@ -11,11 +11,6 @@ const HeroPic = () => {
         alt="Gourav Verma"
         className="max-h-[1800px] w-auto "
       />
-
-      {/* Hexagonal Ring behind pic */}
-      {/* <div className="absolute -z-10 flex justify-center items-center animate-pulse">
-        <PiHexagonThin className="md:h-[90%] sm:h-[120%] min-h-[500px] w-auto text-cyan blur-md animate-[spin_20s_linear_infinite]"/>
-      </div> */} 
     </motion.div>
   );
 };
