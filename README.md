@@ -4,7 +4,7 @@ A modern, responsive portfolio website built with React and Vite, showcasing my 
 
 ## 🚀 Live Demo
 
-Visit the live portfolio: 
+Visit the live portfolio: https://personalportfolio-fawn.vercel.app/
 
 ## 📋 Table of Contents
 
